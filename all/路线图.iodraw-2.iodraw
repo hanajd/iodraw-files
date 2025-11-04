@@ -103,24 +103,19 @@
         </mxCell>
         <mxCell id="QD-xAgXfr_TXtLv7IrWL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=0;curved=0;strokeColor=default;strokeWidth=1;endArrow=none;endFill=0;" edge="1" target="QD-xAgXfr_TXtLv7IrWL-3" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="180" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QD-xAgXfr_TXtLv7IrWL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=0;curved=0;strokeColor=default;strokeWidth=1;endArrow=none;endFill=0;" edge="1" target="QD-xAgXfr_TXtLv7IrWL-4" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="180" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="480" y="200" />
-              <mxPoint x="521" y="200" />
-              <mxPoint x="521" y="230" />
-            </Array>
+            <mxPoint x="480" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QD-xAgXfr_TXtLv7IrWL-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;剂量学优势&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="130" width="170" height="60" as="geometry" />
+          <mxGeometry x="560" y="150" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD-xAgXfr_TXtLv7IrWL-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;临床获益分析&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="170" height="60" as="geometry" />
+          <mxGeometry x="560" y="220" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
