@@ -24,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;curved=0;shadow=1;" edge="1" parent="1" source="Bg98ZtKyJhOhSOgAE7GM-3" target="Bg98ZtKyJhOhSOgAE7GM-5">
+        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;curved=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Bg98ZtKyJhOhSOgAE7GM-3" target="Bg98ZtKyJhOhSOgAE7GM-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="365" y="340" />
