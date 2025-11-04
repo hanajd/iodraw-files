@@ -19,6 +19,9 @@
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;自适应计划方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="230" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;可行性研究&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="700" width="230" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
