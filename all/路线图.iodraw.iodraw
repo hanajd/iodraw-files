@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="690" width="620" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;dashed=1;strokeWidth=2;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="630" height="170" as="geometry" />
         </mxCell>
@@ -82,9 +85,6 @@
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;临床获益分析&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="950" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="690" width="620" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
