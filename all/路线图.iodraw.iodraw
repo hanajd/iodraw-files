@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="690" width="620" height="340" as="geometry" />
+          <mxGeometry x="55" y="720" width="620" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;dashed=1;strokeWidth=2;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="630" height="170" as="geometry" />
@@ -61,19 +61,19 @@
           <mxGeometry x="250" y="570" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;可行性研究&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="810" width="230" height="100" as="geometry" />
+          <mxGeometry x="120" y="840" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;变形配准准确性评估&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="710" width="170" height="60" as="geometry" />
+          <mxGeometry x="420" y="740" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;流程可行性&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="790" width="170" height="60" as="geometry" />
+          <mxGeometry x="420" y="820" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;剂量学优势&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="870" width="170" height="60" as="geometry" />
+          <mxGeometry x="420" y="900" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;临床获益分析&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="950" width="170" height="60" as="geometry" />
+          <mxGeometry x="420" y="980" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
