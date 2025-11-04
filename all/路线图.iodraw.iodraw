@@ -75,8 +75,8 @@
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;临床获益分析&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="980" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="55" y="48" width="50" height="30" as="geometry" />
+        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-27" value="课题一" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
