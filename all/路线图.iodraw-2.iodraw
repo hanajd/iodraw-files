@@ -26,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;剂量带预测&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="115" y="350" width="195" height="100" as="geometry" />
+          <mxGeometry x="115" y="350" width="185" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QD-xAgXfr_TXtLv7IrWL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bg98ZtKyJhOhSOgAE7GM-5" target="Bg98ZtKyJhOhSOgAE7GM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;肿瘤靶区退缩&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;的通量预测&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="375" y="350" width="230" height="100" as="geometry" />
+          <mxGeometry x="397.5" y="350" width="215" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;自适应计划方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="240" y="490" width="230" height="100" as="geometry" />
