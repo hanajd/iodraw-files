@@ -72,7 +72,7 @@
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;流程可行性&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="420" y="820" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;剂量学优势&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;剂量学优势&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="420" y="900" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;临床获益分析&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
