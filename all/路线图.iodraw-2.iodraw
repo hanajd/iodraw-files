@@ -62,8 +62,14 @@
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;font&gt;流程可行性&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="40" y="740" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QD-xAgXfr_TXtLv7IrWL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bg98ZtKyJhOhSOgAE7GM-24" target="Bg98ZtKyJhOhSOgAE7GM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;&lt;b&gt;剂量学优势&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="499.5" y="660" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QD-xAgXfr_TXtLv7IrWL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bg98ZtKyJhOhSOgAE7GM-25" target="Bg98ZtKyJhOhSOgAE7GM-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;&lt;b&gt;临床获益分析&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="500" y="740" width="170" height="60" as="geometry" />
