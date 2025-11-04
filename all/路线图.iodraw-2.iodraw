@@ -76,7 +76,7 @@
         <mxCell id="QD-xAgXfr_TXtLv7IrWL-9" value="&lt;b style=&quot;color: rgb(255, 0, 0); font-size: 18px;&quot;&gt;通量图配准训练&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="340" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QD-xAgXfr_TXtLv7IrWL-10" value="&lt;b style=&quot;color: rgb(255, 0, 0); font-size: 18px;&quot;&gt;ART配准&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="QD-xAgXfr_TXtLv7IrWL-10" value="&lt;b style=&quot;color: rgb(255, 0, 0); font-size: 18px;&quot;&gt;AI影像配准技术&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="430" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
