@@ -73,7 +73,10 @@
           <mxGeometry x="360" y="790" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bg98ZtKyJhOhSOgAE7GM-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;剂量学优势&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="870" width="170" height="60" as="geometry" />
+          <mxGeometry x="360" y="860" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg98ZtKyJhOhSOgAE7GM-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;临床获益分析&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="933" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
